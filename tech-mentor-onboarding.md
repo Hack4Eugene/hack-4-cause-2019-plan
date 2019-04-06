@@ -7,6 +7,7 @@ Upon sign-up they should get a welcome letter that describes the following:
 - [ ] join the [EugeneTech Slack](http://eugslack.com) and find the **#hack-for-a-cause** channel
 - [ ] fill out the [mentor onbloading form](https://forms.gle/Hy4qQnLnLhmhgDi9A) so we get more details
 - [ ] they will also get an invite to the (Hack4Cause Slack)[hack4cause.slack.com] where they can find the **#tech-mentors** channel
+- [ ] make sure and fill out your profile and add (tech mentor) to your name so folks have context for your comms
 - [ ] tech mentor issues are tracked in this [planning repo](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/issues)
 - [ ] get to know the Challenge, Teams, and Repos [Airtable Base](https://airtable.com/invite/l?inviteId=inviLIdrtt72RnYtB&inviteToken=6ad12622b4539a55702ae83d4e05c8e4def7e2c71d0f96ad53858ababe3afc78)
 
