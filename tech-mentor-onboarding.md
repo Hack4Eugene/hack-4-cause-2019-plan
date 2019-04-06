@@ -8,7 +8,7 @@ Upon sign-up they should get a welcome letter that describes the following:
 - [ ] fill out the [mentor onbloading form](https://forms.gle/Hy4qQnLnLhmhgDi9A) so we get more details
 - [ ] they will also get an invite to the (Hack4Cause Slack)[hack4cause.slack.com] where they can find the **#tech-mentors** channel
 - [ ] tech mentor issues are tracked in this [planning repo](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/issues)
-- [ ] now it depends on how they are mentoriing
+- [ ] get to know the Challenge, Teams, and Repos [Airtable Base](https://airtable.com/invite/l?inviteId=inviLIdrtt72RnYtB&inviteToken=6ad12622b4539a55702ae83d4e05c8e4def7e2c71d0f96ad53858ababe3afc78)
 
 ### Tech Mentor
 Your a floater.  Friday night is a great time to show up and so is saturday morning.  You'll help folks with light coding tasks, getting set up in github and generall being useful
@@ -17,7 +17,7 @@ Your a floater.  Friday night is a great time to show up and so is saturday morn
 Show up saturday and make sure they are checked into the repo and the code looks semi-reasonable.
 
 ### Open Source Hero
-You can get started before the event.  there are issues to be completed (above) and slack channels a repo to be built.  you are part of the pre-event and logistics, being around on friday is great too.
+You can get started before the event.  There are issues to be completed (above) and slack channels a repo to be built.  You are part of the pre-event and logistics, being around on friday is great too.  Stay the whole weekend if you like.
 
 ### AV Geeks
 Responsible for setting up the projector, screen, audio cables, maybe even powerstrips, etc.  You can help teams get interviewed, prep for demos if needed.
