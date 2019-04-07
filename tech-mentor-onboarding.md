@@ -17,7 +17,7 @@ Your a floater.  Friday night is a great time to show up and so is saturday morn
 ### Tech Judge
 Show up saturday and make sure they are checked into the repo and the code looks semi-reasonable.
 
-### Open Source Hero
+### Open Source Wrangler
 You can get started before the event.  There are issues to be completed (above) and slack channels a repo to be built.  You are part of the pre-event and logistics, being around on friday is great too.  Stay the whole weekend if you like.
 
 ### AV Geeks
