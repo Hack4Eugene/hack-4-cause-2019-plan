@@ -4,7 +4,7 @@ and then then grab a complimentary event ticket (ensures the event orders enough
 
 Upon sign-up they should get a welcome letter that describes the following:
 
-- [ ] join the [Hack4Cause Slack](https://hack4cause.slack.com/)
+- [ ] join the [Eugenetech Slack](https://hack4cause.slack.com/) and find the **#hack-for-a-cause** channel
 - [ ] fill out the [mentor onboarding form](https://forms.gle/Hy4qQnLnLhmhgDi9A) so we get more details
 - [ ] you will get an invite to the [Hack4Cause Slack](hack4cause.slack.com)
 - [ ] make sure and fill out your profile and add (tech mentor) to your name so folks have context for your comms
