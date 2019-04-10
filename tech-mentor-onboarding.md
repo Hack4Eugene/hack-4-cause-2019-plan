@@ -9,7 +9,7 @@ Upon sign-up they should get a welcome letter that describes the following:
 - [ ] you will get an invite to the (Hack4Cause Slack)[hack4cause.slack.com]
 - [ ] make sure and fill out your profile and add (tech mentor) to your name so folks have context for your comms
 - [ ] tech mentor issues are tracked in this [planning repo](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/issues)
-- [ ] get to know the Challenge, Teams, and Repos [Airtable Base](https://airtable.com/invite/l?inviteId=inviLIdrtt72RnYtB&inviteToken=6ad12622b4539a55702ae83d4e05c8e4def7e2c71d0f96ad53858ababe3afc78)
+- [ ] get to know the Challenge, Teams, and Repos [Airtable Base](https://airtable.com/shrWnZQkhMOSWSYtK)
 
 ### Tech Mentor
 You'll help folks with light coding tasks, getting set up in github and generally being helpful.
