@@ -12,7 +12,6 @@ Thanks for signing up for hack4cause!  There are a few ways to volunteer and the
 
 - [ ] Fill out the [tech volunteer onboarding form](https://forms.gle/Hy4qQnLnLhmhgDi9A) so we get a few more details
 - [ ] Edit your slack profile and add **"(tech)"** to your name so folks have context for your chatter
-- [ ] Tech volunteer issues are tracked in this [planning repo](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/issues)
 - [ ] Get to know the Challenge, Teams, and Repos [Airtable Base](https://airtable.com/shrWnZQkhMOSWSYtK)
 
 ### There are a number of slack channel you'll find helpful
@@ -20,5 +19,13 @@ Thanks for signing up for hack4cause!  There are a few ways to volunteer and the
 - #tech-judges
 - #tech-av-geeks
 - #tech-repo-wranglers
+
+### check out the other onboarding docs
+- [Tech mentors]()
+- [Tech judge]()
+- [Repo wrangler]()
+- [AV geeks]()
+
+
 
 
