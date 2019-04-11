@@ -2,17 +2,23 @@
 
 Thanks for signing up for hack4cause!  There are a few ways to volunteer and the big question is HOW and WHEN you would like to do so.  When you fill out the [volunteer onboarding form](https://forms.gle/Hy4qQnLnLhmhgDi9A)
 
-### How would you like to participate and when?
-- Tech Mentor - Wonder around and be helpful with git, code, etc. flex schedule at the event friday-sunday
-- Tech Judge - Speudo-code-review the repos on Sunday and 
+### HOW would you like to participate?
+- Tech Mentor - Wonder around and be helpful with git, code, etc. 
+- Tech Judge - Thumps up the repos are pulled in on Sunday  
 - Repo Wrangler - Setup repos, slack channels, moderate said.  Before and durring the event
 - AV Geeks - work with teams to make good demos, run the projectors, audio checks etc. Friday night and/or Sunday morning
 
-### The onboarding path has the following steps:
+### ALL onboarding paths has the following steps:
 
 - [ ] Fill out the [tech volunteer onboarding form](https://forms.gle/Hy4qQnLnLhmhgDi9A) so we get a few more details
 - [ ] Edit your slack profile and add **"(tech)"** to your name so folks have context for your chatter
 - [ ] Get to know the Challenge, Teams, and Repos [Airtable Base](https://airtable.com/shrWnZQkhMOSWSYtK)
+
+### WHEN would you like to participate and when?
+- Tech Mentor - fill in [the schedule](https://docs.google.com/spreadsheets/d/1gWAtl473EZyGNTURBP1VW96r7YM5atMRPAdKtMPXwDc/edit?usp=sharing) friday thru Sunday
+- Tech Judge - Speudo-code-review the repos on Sunday 
+- Repo Wrangler - Jump into the **#tech-mentors** slack channel and [grab from the issues list](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/labels/Repo%20Wrangler)
+- AV Geeks - Show up Friday night and/or Sunday morning.
 
 ### There are a number of slack channel you'll find helpful
 - #tech-mentors
