@@ -3,6 +3,10 @@
 ### Q: Where's the schedule?
 **A:** Scan [the schedule](https://docs.google.com/spreadsheets/d/1gWAtl473EZyGNTURBP1VW96r7YM5atMRPAdKtMPXwDc/edit?usp=sharing) and look for tasks that contain **"Tech Mentor"**.
 
+### Q: How do we help teams form?
+**A:** Check out the [team onboarding doc](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/blob/master/team-onboarding.md)
+
+
 ### Q: Where are the repos?
 **A:** All the repo for Hack-for-cause are located in the [Hack4Eugene](https://github.com/Hack4Eugene) org.
 
