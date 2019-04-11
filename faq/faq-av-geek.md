@@ -6,5 +6,8 @@
 ### Q: What are the audio sources?
 **A:** There are a few mics and the videos wil be lpayed form the computer, likely thru the projector
 
+### Q: How can I help?
+**A:** look in the [Issues list for things labeled with "AV Geek"](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/labels/AV%20Geeks)
+
 
 
