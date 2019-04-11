@@ -1,5 +1,7 @@
 # FAQ for Tech Mentors at Hack 4 Cause
 
+Tech mentoring is a hands-on role at the event where you provide technical assistance and encouragement to participants concerning the more technical aspects like using GitHub and slack.  It's important to know [how the event works](how-it-works.md) and help folks down that path at different parts of the weekend.
+
 ### Q: Where's the schedule?
 **A:** Scan [the schedule](https://docs.google.com/spreadsheets/d/1gWAtl473EZyGNTURBP1VW96r7YM5atMRPAdKtMPXwDc/edit?usp=sharing) and look for tasks that contain **"Tech Mentor"**.
 
