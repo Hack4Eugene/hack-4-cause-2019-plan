@@ -1,5 +1,5 @@
 # Hack4cause 2019 Planning
-Thanks for visiting the Hack4cause 2019 Planning Repo for tech mentors.  We're glad you are here :tada:
+Thanks for visiting the Hack4cause 2019 Planning Repo for tech volunteers.  We're glad you are here :tada:
 
 ### The purpose of the repo is to collaborate on the current hack and serve as a template for the tech side of future hacks.
 
