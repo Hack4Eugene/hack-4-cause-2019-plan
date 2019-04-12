@@ -8,7 +8,7 @@ Thanks for signing up for hack4cause!  There are a few ways to volunteer and the
 - Repo Wrangler - Setup repos, slack channels, moderate said.  Before and durring the event
 - AV Geeks - work with teams to make good demos, run the projectors, audio checks etc. Friday night and/or Sunday morning
 
-### ALL onboarding paths has the following steps:
+### ALL onboarding paths follow the following steps:
 
 - [ ] Fill out the [tech volunteer onboarding form](https://forms.gle/Hy4qQnLnLhmhgDi9A) so we get a few more details
 - [ ] Edit your slack profile and add **"(tech)"** to your name so folks have context for your chatter
