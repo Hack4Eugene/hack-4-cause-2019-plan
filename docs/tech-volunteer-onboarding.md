@@ -27,10 +27,10 @@ Thanks for signing up for hack4cause!  There are a few ways to volunteer and the
 - #tech-repo-wranglers
 
 ### Check out the tech volunteer FAQs
-- [Tech mentors](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/blob/master/docs/faq-tech-mentor.md)
-- [Tech judge](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/blob/master/docs/faq-tech-judge.md)
-- [Repo wrangler](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/blob/master/docs/faq-repo-wrnagler.md)
-- [AV geeks](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/blob/master/docs/faq-av-geek.md)
+- [Tech mentors](docs/faq-tech-mentor.md)
+- [Tech judge](docs/faq-tech-judge.md)
+- [Repo wrangler](docs/faq-repo-wrnagler.md)
+- [AV geeks](docs/faq-av-geek.md)
 
 
 

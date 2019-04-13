@@ -6,6 +6,7 @@ All teams go thru the following steps to get onboarded
 - [ ] add the MIT license to the repo
 - [ ] someone on the team forks the repo to get started.
 - [ ] have a tech mentor show them how to add contributors to their forked repo
+- [ ] Open a pull request and have them work from that branch and submit the PR
 - [ ] coding begins!
 
 ## short challenge names / full names
@@ -15,4 +16,3 @@ All teams go thru the following steps to get onboarded
 - community-engagement-tools / City Of Eugene: Tools For Community Engagement
 - urban-pong / City Of Eugene - Parking Services: Urban Pong
 - carry-it-forward / Carry It Forward: Top 5 Donations For Specific Chronically Homeless Folks
-- speed-up-america / Speed up America

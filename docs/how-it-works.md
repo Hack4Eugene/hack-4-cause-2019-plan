@@ -24,7 +24,7 @@ Before you get started I have two special announcements.
 
 Announcement #1: MVP Studio is here to help by providing free hosting and devops for the weekend.  If your project qualifies, they will contact you and get you set up wih hosting on Google's cloud, slong with build services. So you can concentrate on your development work and skip some devops & hosting chores. Look for the MVP Studio table near the Mentors Table.
 
-Announcement #2: If you are new to Git, GitHub and/or Docker, we have an intro class that will start in 10 minutes right down the hall. This is a great way to get a jump on the weekend and I highly encourage you attend.
+Announcement #2: If  you are new to Git, GitHub and/or Docker, we have an intro class that will start in 10 minutes right down the hall. This is a great way to get a jump on the weekend and I highly encourage you attend.
 
 Thanks for you time!
 
