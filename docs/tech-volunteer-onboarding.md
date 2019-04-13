@@ -16,9 +16,9 @@ Thanks for signing up for hack4cause!  There are a few ways to volunteer and the
 
 ### WHEN would you like to participate and when?
 - Tech Mentor - fill in [the schedule](https://docs.google.com/spreadsheets/d/1gWAtl473EZyGNTURBP1VW96r7YM5atMRPAdKtMPXwDc/edit?usp=sharing) friday thru Sunday
-- Tech Judge - Speudo-code-review the repos on Sunday 
-- Repo Wrangler - Jump into the **#tech-mentors** slack channel and [grab from the issues list](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/labels/Repo%20Wrangler)
-- AV Geeks - Show up Friday night and/or Sunday morning.
+- Tech Judge - sort-of codereview the repos on [Sunday](https://docs.google.com/spreadsheets/d/1gWAtl473EZyGNTURBP1VW96r7YM5atMRPAdKtMPXwDc/edit?usp=sharing) 
+- Repo Wrangler - Jump into the **#tech-repo-wranglers** slack channel and [grab from the issues list](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/labels/Repo%20Wrangler).  If you are attending the event as a tech mentor add yourself to [the schedule](https://docs.google.com/spreadsheets/d/1gWAtl473EZyGNTURBP1VW96r7YM5atMRPAdKtMPXwDc/edit?usp=sharing)  
+- AV Geeks - Show up Friday night and/or Sunday morning, there are spots on [the schedule](https://docs.google.com/spreadsheets/d/1gWAtl473EZyGNTURBP1VW96r7YM5atMRPAdKtMPXwDc/edit?usp=sharing)
 
 ### There are a number of slack channel you'll find helpful
 - #tech-mentors
