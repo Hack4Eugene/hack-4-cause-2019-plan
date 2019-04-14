@@ -22,4 +22,4 @@ Pick a few blocks throughout the weekend that work with your schedule.  Friday n
 - #tech-mentors
 - #team-formation
 
-## More Questions? Check out the [FAQ](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/blob/master/faq/tech-mentor-onboarding.md)
+## More Questions? Check out the [FAQ](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/blob/master/docs/faq-tech-mentor.md)
