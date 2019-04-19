@@ -4,7 +4,7 @@ Hi [Name],
 
 I'm on of the tech-mentor wranglers for the event.
 
-See you in the #tech-mentors channel in the slack and please fill out this form so we can put your skills to the best use!
+See you in the #tech-mentors channel [in the slack](https:/communityinviter.com/apps/hack4cause/inviter) and please fill out this form so we can put your skills to the best use!
 
 tech-mentor-onboarding-form: https://forms.gle/Hy4qQnLnLhmhgDi9A
 
