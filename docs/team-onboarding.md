@@ -1,11 +1,11 @@
-# team onboarding
+# Team onboarding
 All teams go thru the following steps to get onboarded
 
 - [ ] Sign-up on the [onboarding form](https://forms.gle/aYMg9M2vFdFTgAhH6)
 - [ ] Have an Repo Wrangler create a repo in the [this organization](https://github.com/Hack4Eugene) using the [short-challenge-name]-[team-name]-[year] format.
 - [ ] Add the MIT license to the repo.
-- [ ] Elect a team Maintainer and add as an admon in the repo.
-- [ ] Have a tech mentor show the team matainer how to add contributors.
+- [ ] Elect a team Maintainer and add them as an admin in the repo.
+- [ ] Have a tech mentor show the team matainer how to add more contributors.
 - [ ] Coding begins!
 
 ## short challenge names / full names
