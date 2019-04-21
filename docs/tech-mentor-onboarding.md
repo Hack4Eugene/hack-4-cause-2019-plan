@@ -6,7 +6,7 @@ Thanks for signing up for hack4cause as a Tech Mentor. If you have not already, 
 As Tech Mentors we help participants navigate the more technical aspects of the event like Slack and GitHub as well as provide whatever specific advise we can in our area of expertise.  We can help with team formation and [onboarding](team-onboarding.md). 
 
 ### Clearing paths to productivity
-Tech mentors will encounter teams of varying skills and approaches that might not match your areas of expertise.  Listen to the teams and clear the path to help them follow their vision.  Avoid bending teams to your world-view or using your position of authority to evangelize specific tools, or technologies.  Feel free to step-up to help them overcome barriers but quickly step-back and let them do the work.
+Tech mentors will encounter teams of varying skills and approaches that might not match your areas of expertise.  Listen to the teams and clear the path to help them follow their vision.  Avoid bending teams to your world-view or using your position of authority to evangelize specific tools or technologies.  Feel free to step-up to help them overcome barriers but quickly step-back and let them do the work.
 
 #### Before the event
 It's good to join in on the chatter at the **#tech-mentors** channel on the [Slack](http://hack4cause.slack.com) to get to know folks and maybe help with team formation in the **#team-formation** channel.
