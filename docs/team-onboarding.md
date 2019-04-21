@@ -1,11 +1,12 @@
 # Team onboarding
 All teams go thru the following steps to get onboarded
 
+- [ ] Team members congregate in the challenge channel (#c-challenge-name) 
+- [ ] Teams elect a repo "maintainer" who has a github user and will be the point-of-contact with a tech volunteers.
 - [ ] Sign-up on the [onboarding form](https://forms.gle/aYMg9M2vFdFTgAhH6)
-- [ ] Have an Repo Wrangler create a repo in the [this organization](https://github.com/Hack4Eugene) using the [short-challenge-name]-[team-name]-[year] format.
-- [ ] Add the MIT license to the repo.
-- [ ] Elect a team Maintainer and add them as an admin in the repo.
-- [ ] Have a tech mentor show the team matainer how to add more contributors.
+- [ ] Team maintainer visits #tech-mentors or #tech-repo-wranglers channel to announce they have formed! 
+- [ ] A Tech Mentor or Repo Wrangler creates a repo in the [this organization](https://github.com/Hack4Eugene) using the [short-challenge-name]-[team-name]-[year] format and adds a readme.md and an MIT license to the repo.
+- [ ] A Tech Mentor or Repo Wrangler shows the team maintainer how to add more contributors.
 - [ ] Coding begins!
 
 ## short challenge names / full names
