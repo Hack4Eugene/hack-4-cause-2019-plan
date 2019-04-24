@@ -11,7 +11,7 @@ Thanks for signing up for hack4cause!  There are a few ways to volunteer and the
 ### ALL onboarding paths follow the following steps:
 
 - [ ] Fill out the [tech volunteer onboarding form](https://forms.gle/Hy4qQnLnLhmhgDi9A) so we get a few more details
-- [ ] Edit your slack profile and add **"(tech mentor)"** to your name so folks have context for your chatter
+- [ ] Edit your slack profile and add **"(tech)"** to your name so folks have context for your chatter
 - [ ] Get to know the Challenge, Teams, and Repos [Airtable Base](https://airtable.com/shrWnZQkhMOSWSYtK)
 
 ### WHEN would you like to participate and when?
