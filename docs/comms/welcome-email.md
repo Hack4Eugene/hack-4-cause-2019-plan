@@ -1,14 +1,14 @@
-# Welceom email
+# Welcome email
 
 Hi [Name],
 
-I'm on of the tech-mentor wranglers for the event.
+I'm one of the tech-volunteer wranglers for the event.
 
-See you in the #tech-mentors channel [in the slack](https:/communityinviter.com/apps/hack4cause/inviter) and please fill out this form so we can put your skills to the best use!
+Please join the rest of the tech-volunteers in the #tech-mentors channel [in the slack](https:/communityinviter.com/apps/hack4cause/inviter) so we can get to know you!
 
-tech-mentor-onboarding-form: https://forms.gle/Hy4qQnLnLhmhgDi9A
+We have a [pretty swell onboarding doc](https://github.com/Hack4Eugene/hack-4-cause-2019-plan/blob/master/docs/tech-volunteer-onboarding.md) to bring you up to speed as well as [a handy onboarding form](https://forms.gle/Hy4qQnLnLhmhgDi9A) to help match your talents to the needs of the participants.
 
-We have a nerdy, and pretty compresensive planning repo rolling as well: https://github.com/Hack4Eugene/hack-4-cause-2019-plan 
+We have a nerdy, and pretty comprehensive planning repo started: https://github.com/Hack4Eugene/hack-4-cause-2019-plan 
 
 Please feel free to hit me up directly if you have questions.
 
